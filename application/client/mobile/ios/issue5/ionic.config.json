@@ -1,0 +1,7 @@
+{
+  "name": "issue5",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
